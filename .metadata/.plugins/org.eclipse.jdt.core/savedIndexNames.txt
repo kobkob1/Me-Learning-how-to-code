@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+D:\Projects\Learning to Code\Me-Learning-how-to-code\.metadata\.plugins\org.eclipse.jdt.core
